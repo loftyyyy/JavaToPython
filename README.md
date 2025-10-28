@@ -1,12 +1,22 @@
-# JavaToPython
+# 🐍 JavaToPython
 
-This repository contains the assignment for our Programming Languages course. The professor tasked us to convert the Java code found in the image folder into Python.
+This repository contains our **Programming Languages** assignment, where we were tasked to **convert a Java program into Python**.
 
-- Converted Python implementation: [JavaToPython/JavaToPython.py](JavaToPython/JavaToPython.py) (see [`Dog`](JavaToPython/JavaToPython.py) and [`main`](JavaToPython/JavaToPython.py))
-- Original Java code (images): ![Java Code](image/JavaSnippet.png)
+---
 
-Run the Python script:
+## 📁 Project Overview
 
-```sh
+- **Task:** Convert the given Java code (found in the `image/` folder) into an equivalent Python program.  
+- **Converted File:** [`JavaToPython/JavaToPython.py`](JavaToPython/JavaToPython.py)  
+- **Key Classes/Functions:** [`Dog`](JavaToPython/JavaToPython.py) and [`main`](JavaToPython/JavaToPython.py)  
+- **Original Java Code:**  
+  ![Java Code Snippet](image/JavaSnippet.png)
+
+---
+
+## ▶️ How to Run
+
+Make sure you have **Python 3** installed, then run:
+
+```bash
 python JavaToPython.py
-```
